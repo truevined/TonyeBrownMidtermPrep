@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tonye Brown - Midterm</string>
+    <string name="placeholderText">Let us begin!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Welcome to COMP2160 Fragment tutorial</string>
+    <string name="Calgary">Hide Fragment</string>
+    <string name="Victoria">Victoria</string>
+    <string name="Vancouver">Show Fragment</string>
+    <string-array name="cities">
+        <item>Calgary</item>
+        <item>Victoria</item>
+        <item>Vancouver</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Calgary, a cosmopolitan Alberta city with numerous skyscrapers, owes its rapid growth to its status as the centre of Canada’s oil industry. However, it’s still steeped in the western culture that earned it the nickname “Cowtown,” evident in the Calgary Stampede, its massive July rodeo and festival that grew out of the farming exhibitions once presented here.</item>
+        <item>Vancouver, a bustling west coast seaport in British Columbia, is among Canada’s densest, most ethnically diverse cities. A popular filming location, it’s surrounded by mountains and invites outdoor pursuits of all kinds, but also has thriving art, theatre and music scenes. Vancouver Art Gallery is known for its works by regional artists, while the Museum of Anthropology houses preeminent First Nations collections.</item>
+        <item>Victoria, capital of British Columbia, sits on the craggy southern end of Vancouver Island. With a mild climate and an abundance of trails and parks – including sprawling, amusement-filled Beacon Hill – it’s a destination for outdoor activities. Its beginnings as a British colony show in its Victorian architecture, such as stately Craigdarroch Castle mansion, as well as in its many formal gardens.</item>
+    </string-array>
+</resources>
